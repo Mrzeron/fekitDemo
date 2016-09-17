@@ -1,0 +1,43 @@
+.header {
+    padding: 5px 10px;
+    padding-right: 0;
+    border-bottom: 1px solid #ebebeb;
+    overflow: hidden;
+    a {
+        margin-right: 5px;
+        color: #555;
+        line-height: 20px;
+    }
+    .headerleft {
+        float: left;
+        .city {
+            span {
+                background: url("http://ocq2u27lk.bkt.clouddn.com/fekit/baidu/pica1.png") no-repeat;
+                display: inline-block;
+                width: 18px;
+                height: 18px;
+                margin-right: 5px;
+            }
+        }
+        .city_air {
+            color: #38f;
+            font-weight: bold;
+        }
+        .city_airnum {
+            border-right: 1px solid #ccc;
+            padding-right: 5px;
+        }
+        .others {
+            text-decoration: underline;
+        }
+    }
+    .headerright {
+        float: right;
+        a{
+        	font-size:13px;
+        	font-weight:bold;
+
+        }
+        margin-right:2%;
+    }
+}

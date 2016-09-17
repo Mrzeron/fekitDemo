@@ -1,0 +1,23 @@
+@charset "UTF-8";*{margin:0;padding:0}
+body{font-size:12px;font-family:"微软雅黑"}
+a{text-decoration:none;color:#333}
+em{font-style:normal}
+.header{padding:5px 10px;padding-right:0;border-bottom:1px solid #ebebeb;overflow:hidden}
+.header a{margin-right:5px;color:#555;line-height:20px}
+.header .headerleft{float:left}
+.header .headerleft .city span{background:url("http://ocq2u27lk.bkt.clouddn.com/fekit/baidu/pica1.png") no-repeat;display:inline-block;width:18px;height:18px;margin-right:5px}
+.header .headerleft .city_air{color:#38f;font-weight:bold}
+.header .headerleft .city_airnum{border-right:1px solid #ccc;padding-right:5px}
+.header .headerleft .others{text-decoration:underline}
+.header .headerright{float:right;margin-right:2%}
+.header .headerright a{font-size:13px;font-weight:bold}
+.content{margin-top:100px}
+.content a{display:block;width:270px;height:129px;margin:0 auto;background:url("http://ocq2u27lk.bkt.clouddn.com/fekit/baidu/picbd_logo1.png") no-repeat;background-size:cover}
+.content .search{position:relative;margin-top:22px;text-align:center}
+.content .search span{display:inline-block;position:relative;width:539px;border:1px solid #b6b6b6;vertical-align:top;height:34px}
+.content .search span :after{clear:both;display:block;height:0;content:""}
+.content .search span input{float:left;margin-top:7px;margin-left:6px;width:500px;height:22px;border:0;outline:0}
+.content .search span i{width:18px;height:16px;margin-top:10px;margin-right:10px;float:right;cursor:pointer;background:url("http://ocq2u27lk.bkt.clouddn.com/fekit/baidu/piccamera_new_679c15cc.png") no-repeat}
+.content .search span i:hover{background-position:0 -20px}
+.content .search span .search_hz{position:absolute;right:-100px;width:100px;height:36px;top:-1px;line-height:36px;color:white;font-size:15px;cursor:pointer;background:#3385ff;letter-spacing:1px}
+.content .footer{background:url("http://ocq2u27lk.bkt.clouddn.com/fekit/baidu/picfoot.png") no-repeat;height:102px;width:684px;margin:0 auto;margin-top:300px}

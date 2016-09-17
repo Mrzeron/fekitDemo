@@ -1,0 +1,7 @@
+<div class="content">
+	<div class="imgbox"><a href="#"></a></div>
+	<div class="search">
+		<span><input type="text" id="search"> <i></i><em class="search_hz">百度一下</em></span>
+	</div>
+	<div class="footer"></div>
+</div>
